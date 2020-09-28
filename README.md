@@ -1,5 +1,4 @@
-**Name**: Avinash Gupta
 
-**Major**: Computer Science
+# sandbox
+FRI sandbox for learning GitHub without breaking anything
 
-**What I Want to Learn in This Class**: In this class, I hope to learn more about energy and geostatistics.
