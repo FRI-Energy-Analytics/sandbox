@@ -1,3 +1,0 @@
-Jessica\
-Computer Science\
-Researching}

@@ -1,3 +1,0 @@
-# Bianca
-### math
-### machine learning 
